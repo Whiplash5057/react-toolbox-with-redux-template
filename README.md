@@ -1,4 +1,4 @@
-# react-toolbox-example
+# A minimalistic boilerplate project repo which react-toolbox with es6, redux, sass and a file loader
 
 ### Getting Started
 1. Clone this repository
